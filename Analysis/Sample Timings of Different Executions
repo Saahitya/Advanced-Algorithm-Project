@@ -1,0 +1,53 @@
+5
+Bellman Ford: 0.000056 sec
+Dijkstra: 0.000082 sec
+Floyd-Warshall: 0.000023 sec
+thread 0.000593652
+seq 0.000133645
+
+10
+Bellman Ford: 0.000230 sec
+Dijkstra: 0.000412 sec
+Floyd-Warshall: 0.000099 sec
+thread 0.00107164
+seq 0.00017695
+
+20
+Bellman Ford: 0.002066 sec
+Dijkstra: 0.001923 sec
+Floyd-Warshall: 0.000148 sec
+thread 0.00299966
+seq 0.000484101
+
+100
+Bellman Ford: 0.108999 sec
+Dijkstra: 0.122360 sec
+Floyd-Warshall: 0.012161 sec
+thread 0.0176044
+seq 0.01776
+
+200
+Bellman Ford: 0.822637 sec
+Dijkstra: 0.936540 sec
+Floyd-Warshall: 0.092509 sec
+thread 0.0478654
+seq 0.0985087
+
+
+500
+Bellman Ford: 13.634183 sec
+Dijkstra: 14.609594 sec
+Floyd-Warshall: 1.356143 sec
+thread 0.443989
+seq 1.30083
+
+1000
+bellman 119.544216
+dijkstra 120.361839
+floyds 10.679323
+seq 8.04248
+thread 2.47953
+
+5000
+thread 228.061
+seq 718.225
