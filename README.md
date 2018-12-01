@@ -8,11 +8,11 @@ The aim of the project is to compare different routing algorithms, observe their
 ### Central Routing Algorithms
 To compile all the central routing algorithms
 ```
-g++ main.cpp Dijkstra.cpp  Bellman.cpp Floyds.cpp 
+g++ ./Code/main.cpp ./Code/Dijkstra.cpp  ./Code/Bellman.cpp ./Code/Floyds.cpp -o cen.out
 ```
 To run with different inputs
 ``` 
-./a.out < input.txt
+./cen.out < /Input/500nodes.txt
 ```
 
 ### Distance Vector Algorithms
