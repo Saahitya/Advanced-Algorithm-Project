@@ -18,15 +18,19 @@ To run with different inputs
 ### Distance Vector Algorithms
 To compile sequential distance vector
 ```
+g++ ./Code/dist-vect-seq.cpp -o seq.out
 ```
 To run sequential disance vector with input
 ```
+./seq.out ./Input/500nodes.txt
 ```
 To compile threaded distance vector
 ```
+g++ ./Code/dist-vect-thread.cpp -o th.out
 ```
 To run threaded distance vector with inputs
 ```
+./th.out ./Input/500nodes.txt
 ```
 
 ## Built with
