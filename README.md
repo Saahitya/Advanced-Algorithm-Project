@@ -26,7 +26,7 @@ To run sequential disance vector with input
 ```
 To compile threaded distance vector
 ```
-g++ ./Code/dist-vect-thread.cpp -o th.out
+g++ ./Code/dist-vect-thread.cpp -pthread -o -th.out
 ```
 To run threaded distance vector with inputs
 ```
