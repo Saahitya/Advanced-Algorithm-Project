@@ -38,6 +38,6 @@ To run threaded distance vector with inputs
 
 ##Authors
 * **Rohan Rajesh Talesara** - **01FB16ECS309**
-* **Saahitya E** - **01FB16ECS321**
+* **Saahitya E** - **01FB16ECS322**
 * **Shalini Sai Prasad** - **01FB16ECS350**
 
